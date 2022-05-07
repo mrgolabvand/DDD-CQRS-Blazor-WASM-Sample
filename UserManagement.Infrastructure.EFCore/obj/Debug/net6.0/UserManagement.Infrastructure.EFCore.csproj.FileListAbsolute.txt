@@ -1,0 +1,46 @@
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.deps.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.runtimeconfig.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\0_Framework.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.ViewModel.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Domain.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.ViewModel.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\Resources.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.csproj.CopyComplete
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\ref\UserManagement.Infrastructure.EFCore.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.genruntimeconfig.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\refint\UserManagement.Infrastructure.EFCore.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.deps.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.runtimeconfig.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\0_Framework.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.ViewModel.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.Domain.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\UserManagement.ViewModel.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\bin\Debug\net6.0\Resources.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.csproj.CopyComplete
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\refint\UserManagement.Infrastructure.EFCore.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\UserManagement.Infrastructure.EFCore.genruntimeconfig.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Infrastructure.EFCore\obj\Debug\net6.0\ref\UserManagement.Infrastructure.EFCore.dll

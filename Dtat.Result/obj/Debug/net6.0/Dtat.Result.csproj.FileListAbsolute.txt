@@ -1,0 +1,24 @@
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\bin\Debug\net6.0\Dtat.Result.deps.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\bin\Debug\net6.0\Dtat.Result.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\bin\Debug\net6.0\Dtat.Result.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\ref\Dtat.Result.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\refint\Dtat.Result.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\bin\Debug\net6.0\Dtat.Result.deps.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\bin\Debug\net6.0\Dtat.Result.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\bin\Debug\net6.0\Dtat.Result.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\refint\Dtat.Result.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\Dtat.Result.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Dtat.Result\obj\Debug\net6.0\ref\Dtat.Result.dll

@@ -1,0 +1,34 @@
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\bin\Debug\net6.0\Resources.deps.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\bin\Debug\net6.0\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\bin\Debug\net6.0\Resources.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.DataDictionary.resources
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.Messages.Errors.resources
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.Messages.Successes.resources
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.Messages.Validations.resources
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.csproj.GenerateResource.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\ref\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\Resources\obj\Debug\net6.0\refint\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\bin\Debug\net6.0\Resources.deps.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\bin\Debug\net6.0\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\bin\Debug\net6.0\Resources.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.DataDictionary.resources
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.Messages.Errors.resources
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.Messages.Successes.resources
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.Messages.Validations.resources
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.csproj.GenerateResource.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\refint\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\Resources.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\Resources\obj\Debug\net6.0\ref\Resources.dll

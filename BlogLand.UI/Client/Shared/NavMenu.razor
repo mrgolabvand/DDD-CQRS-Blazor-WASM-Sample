@@ -1,0 +1,6 @@
+﻿<MudButton Link="/" Variant="Variant.Text" DisableElevation="true" Color="Color.Info">Home</MudButton>
+<AuthorizeView Roles="@Roles.Admin">
+    <MudButton Link="/Admin/Users" Variant="Variant.Text" DisableElevation="true" Color="Color.Info">Administration</MudButton>
+</AuthorizeView>
+<AccountButton />
+

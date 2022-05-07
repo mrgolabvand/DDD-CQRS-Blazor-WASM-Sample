@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dtat.Result/1.0.0": {
+        "dependencies": {
+          "FluentResults": "3.1.0"
+        },
+        "runtime": {
+          "Dtat.Result.dll": {}
+        }
+      },
+      "FluentResults/3.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/FluentResults.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dtat.Result/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentResults/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gDFlwP/Mryq5WpsAcz3M+8RdqzE9tVvrp6JCF7yq8dmdXDPzynUDvQiouDW1WokzPlUuOT3tP2gIFlpBOSrivg==",
+      "path": "fluentresults/3.1.0",
+      "hashPath": "fluentresults.3.1.0.nupkg.sha512"
+    }
+  }
+}

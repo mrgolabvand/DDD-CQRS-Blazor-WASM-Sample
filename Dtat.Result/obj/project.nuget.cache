@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tzWjlKmC+FyXOIkTFst9r2v2A+d9ZpXpd9n9pN6mM5s6sB5q4Vd8DRSjfh/T6Q1Qn+s/RfKKL2T7yEUME6ZSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Dtat.Result\\Dtat.Result.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Microsoft\\.nuget\\packages\\fluentresults\\3.1.0\\fluentresults.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = BlogLand.UI.Client
+build_property.RootNamespace = BlogLand.UI.Client
+build_property.ProjectDir = C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Account.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/Blog/ArticleCategory/ArticleCategories.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvZ1xBcnRpY2xlQ2F0ZWdvcnlcQXJ0aWNsZUNhdGVnb3JpZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/Blog/ArticleCategory/CreateArticleCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvZ1xBcnRpY2xlQ2F0ZWdvcnlcQ3JlYXRlQXJ0aWNsZUNhdGVnb3J5RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/Blog/ArticleCategory/EditArticleCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvZ1xBcnRpY2xlQ2F0ZWdvcnlcRWRpdEFydGljbGVDYXRlZ29yeURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/Blog/Article/Articles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvZ1xBcnRpY2xlXEFydGljbGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/Blog/Article/CreateArticlePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvZ1xBcnRpY2xlXENyZWF0ZUFydGljbGVQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/User/ChangePasswordDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclxDaGFuZ2VQYXNzd29yZERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/User/ChangeRoleDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclxDaGFuZ2VSb2xlRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/User/EditUserDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclxFZGl0VXNlckRpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Admin/User/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclxVc2Vycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Shared/AccountButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFjY291bnRCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Shared/AdminLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkbWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Shared/AdminNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkbWluTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Microsoft/Desktop/Programming/C\#/BlogLand/BlogLand.UI/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

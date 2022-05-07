@@ -1,0 +1,34 @@
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\UserManagement.Domain.deps.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\UserManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\UserManagement.Domain.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\0_Framework.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\Resources.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.csproj.CopyComplete
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\ref\UserManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\refint\UserManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\UserManagement.Domain.deps.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\UserManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\UserManagement.Domain.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\0_Framework.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\bin\Debug\net6.0\Resources.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.csproj.CopyComplete
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\refint\UserManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\UserManagement.Domain.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.Domain\obj\Debug\net6.0\ref\UserManagement.Domain.dll

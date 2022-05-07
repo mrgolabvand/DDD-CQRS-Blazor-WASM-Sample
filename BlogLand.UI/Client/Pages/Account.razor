@@ -1,0 +1,148 @@
+﻿@page "/account"
+@using BlogLand.UI.Client.Services
+@using _0_Framework.Application
+@inject HttpClient Http
+@inject NavigationManager NavManager
+@inject ILocalStorageService LocalStorage
+@inject AuthenticationStateProvider AuthStateProvider
+<MudGrid>
+    <MudItem xs="12">
+        <MudText Typo="Typo.body2" Align="Align.Center">
+            @(LoginForm ? "Login" : "Register")
+            <MudToggleIconButton @bind-Toggled="@LoginForm"
+                                 Icon="@Icons.Outlined.PersonAddAlt" Color="@Color.Error" Title="Register"
+                                 ToggledIcon="@Icons.Filled.Login" ToggledColor="@Color.Success" ToggledTitle="Login" />
+        </MudText>
+    </MudItem>
+</MudGrid>
+
+@if (!LoginForm)
+{
+    <EditForm Model="@LoginUser" OnSubmit="@Login">
+        <DataAnnotationsValidator />
+        <MudGrid>
+            <MudItem xs="12" sm="7">
+                <MudCard>
+                    <MudCardContent>
+                        <MudTextField Label="User name" HelperText="Max. 50 characters"
+                                  @bind-Value="LoginUser.UserName" For="@(() => LoginUser.UserName)" />
+                        <MudTextField Label="Password" HelperText="Enter your password" Class="mt-3"
+                                  @bind-Value="LoginUser.Password" For="@(() => LoginUser.Password)" InputType="InputType.Password" />
+                    </MudCardContent>
+                    <MudCardActions>
+                        <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Login</MudButton>
+                    </MudCardActions>
+                </MudCard>
+            </MudItem>
+            <MudItem xs="12" sm="5">
+                <MudPaper Class="pa-4 mud-height-full">
+                    <MudText Typo="Typo.subtitle2">Validation Summary</MudText>
+                    @if (LoginResult != null && LoginResult.IsFailed)
+                    {
+                        @foreach (var error in LoginResult.Errors)
+                        {
+                            <MudText Color="Color.Error">@error</MudText>
+                        }
+                    }
+                    @if (LoginResult != null && LoginResult.IsSuccess)
+                    {
+                        @foreach (var success in LoginResult.Successes)
+                        {
+                            <MudText Color="Color.Success">@success</MudText>
+                        }
+                    }
+
+                </MudPaper>
+            </MudItem>
+        </MudGrid>
+    </EditForm>
+}
+else
+{
+    <EditForm Model="@CreateUser" OnSubmit="@Register">
+        <DataAnnotationsValidator />
+        <MudGrid>
+            <MudItem xs="12" sm="7">
+                <MudCard>
+                    <MudCardContent>
+                        <MudTextField Label="Full name" HelperText="Max. 50 characters"
+                                  @bind-Value="CreateUser.FullName" For="@(() => CreateUser.FullName)" />
+                        <MudTextField Label="User name" HelperText="Max. 50 characters"
+                                  @bind-Value="CreateUser.UserName" For="@(() => CreateUser.UserName)" />
+                        <MudTextField Label="Password" HelperText="Enter your password" Class="mt-3"
+                                  @bind-Value="CreateUser.Password" For="@(() => CreateUser.Password)" InputType="InputType.Password" />
+                        <MudTextField Label="Email" HelperText="Max 70 characters" Class="mt-3"
+                                  @bind-Value="CreateUser.Email" For="@(() => CreateUser.Email)" />
+                        <MudTextField Label="Phone number" HelperText="Fix 11 charachters" Class="mt-3"
+                                  @bind-Value="CreateUser.PhoneNumber" For="@(() => CreateUser.PhoneNumber)" />
+                    </MudCardContent>
+                    <MudCardActions>
+                        <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Register</MudButton>
+                    </MudCardActions>
+                </MudCard>
+            </MudItem>
+            <MudItem xs="12" sm="5">
+                <MudPaper Class="pa-4 mud-height-full">
+                    <MudText Typo="Typo.subtitle2">Validation Summary</MudText>
+                    @if (RegisterResult != null && RegisterResult.IsFailed)
+                    {
+                        @foreach (var error in RegisterResult.Errors)
+                        {
+                            <MudText Color="Color.Error">@error</MudText>
+                        }
+                    }
+                    @if (RegisterResult != null && RegisterResult.IsSuccess)
+                    {
+                        @foreach (var success in RegisterResult.Successes)
+                        {
+                            <MudText Color="Color.Success">@success</MudText>
+                        }
+                    }
+                </MudPaper>
+            </MudItem>
+        </MudGrid>
+    </EditForm>
+}
+
+
+
+@code {
+    public LoginUser LoginUser = new LoginUser();
+    public CreateUser CreateUser = new CreateUser();
+
+    public Result<AuthViewModel>? LoginResult { get; set; }
+    public Result? RegisterResult { get; set; }
+
+    public bool LoginForm { get; set; }
+
+    public async Task Login()
+    {
+        if (LoginUser != null)
+        {
+            var requestUri = "userApi/Auth/Login";
+            var response = await Http.PostAsJsonAsync(requestUri, LoginUser);
+            var json = await response.Content.ReadAsStringAsync();
+            LoginResult = JsonConvert.DeserializeObject<Result<AuthViewModel>>(json);
+
+            if (LoginResult == null || LoginResult.IsFailed)
+                return;
+
+            //await LocalStorage.SetItemAsync("token", LoginResult.Value);
+            await AuthStateProvider.GetAuthenticationStateAsync();
+
+            if (LoginResult.IsSuccess)
+                NavManager.NavigateTo("/");
+        }
+    }
+
+    public async Task Register()
+    {
+        if (CreateUser != null)
+        {
+            var requestUri = "userApi/Auth/Register";
+            var response = await Http.PostAsJsonAsync(requestUri, CreateUser);
+            var json = await response.Content.ReadAsStringAsync();
+            RegisterResult = JsonConvert.DeserializeObject<Result>(json);
+        }
+    }
+}

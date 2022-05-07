@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf7b9d3e-d12e-4ce5-9b45-3d221080f20c": {
+      "ProjectGuid": "bf7b9d3e-d12e-4ce5-9b45-3d221080f20c",
+      "DisplayName": "UserManagement.Domain",
+      "ColorIndex": 0
+    },
+    "852466be-de49-4e39-9ab9-da4047c9bda9": {
+      "ProjectGuid": "852466be-de49-4e39-9ab9-da4047c9bda9",
+      "DisplayName": "UserManagement.Infrastructure.EFCore",
+      "ColorIndex": 1
+    },
+    "b67f9015-d65c-4284-9f93-2a798ff71865": {
+      "ProjectGuid": "b67f9015-d65c-4284-9f93-2a798ff71865",
+      "DisplayName": "UserManagement.Infrastructure.Configuration",
+      "ColorIndex": 2
+    },
+    "ca03a776-24fe-4d16-9c31-0465a697d2a5": {
+      "ProjectGuid": "ca03a776-24fe-4d16-9c31-0465a697d2a5",
+      "DisplayName": "UserManagement.Application",
+      "ColorIndex": 3
+    },
+    "2a1e444c-134e-46d2-b7ea-5c9ead3431a6": {
+      "ProjectGuid": "2a1e444c-134e-46d2-b7ea-5c9ead3431a6",
+      "DisplayName": "Resources",
+      "ColorIndex": 4
+    },
+    "5325087f-810a-4504-9732-aaa010bdf6e7": {
+      "ProjectGuid": "5325087f-810a-4504-9732-aaa010bdf6e7",
+      "DisplayName": "0_Framework",
+      "ColorIndex": 5
+    },
+    "6650f1c5-2dfc-4f12-8a3d-043220d2f034": {
+      "ProjectGuid": "6650f1c5-2dfc-4f12-8a3d-043220d2f034",
+      "DisplayName": "UserManagement.Api",
+      "ColorIndex": 6
+    },
+    "c97bdf3a-9c37-4060-b16e-df61fc70bf47": {
+      "ProjectGuid": "c97bdf3a-9c37-4060-b16e-df61fc70bf47",
+      "DisplayName": "UserManagement.ViewModel",
+      "ColorIndex": 7
+    },
+    "df4ea941-0f56-496d-99e5-d4585718aa7e": {
+      "ProjectGuid": "df4ea941-0f56-496d-99e5-d4585718aa7e",
+      "DisplayName": "Dtat.Result",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "dbc30021-7b6b-4dbc-99d3-b6b469f87ed6": {
+      "ProjectGuid": "dbc30021-7b6b-4dbc-99d3-b6b469f87ed6",
+      "DisplayName": "ServiceHost",
+      "ColorIndex": 9
+    },
+    "0317d022-d407-4023-947a-81ed777273bb": {
+      "ProjectGuid": "0317d022-d407-4023-947a-81ed777273bb",
+      "DisplayName": "BlogManagement.Domain",
+      "ColorIndex": 10
+    },
+    "149a59b7-71d9-4058-aa30-d95ccfdcbda1": {
+      "ProjectGuid": "149a59b7-71d9-4058-aa30-d95ccfdcbda1",
+      "DisplayName": "BlogManagement.Infrastructure.EFCore",
+      "ColorIndex": 11
+    },
+    "8dd92e1d-3cfc-4f59-8540-1597ae63e4bc": {
+      "ProjectGuid": "8dd92e1d-3cfc-4f59-8540-1597ae63e4bc",
+      "DisplayName": "BlogManagement.Infrastructure.Configuration",
+      "ColorIndex": 12
+    },
+    "c7804bb0-768c-40d4-9ec1-fb19262dbce7": {
+      "ProjectGuid": "c7804bb0-768c-40d4-9ec1-fb19262dbce7",
+      "DisplayName": "BlogManagement.Application",
+      "ColorIndex": 13
+    },
+    "03857b8b-6d56-4b6f-867e-a3fbf6d34e37": {
+      "ProjectGuid": "03857b8b-6d56-4b6f-867e-a3fbf6d34e37",
+      "DisplayName": "BlogManagement.ViewModel",
+      "ColorIndex": 14
+    },
+    "e5fdf239-325d-473c-9086-c65e79fe3254": {
+      "ProjectGuid": "e5fdf239-325d-473c-9086-c65e79fe3254",
+      "DisplayName": "ServiceHost.Server",
+      "ColorIndex": 15
+    },
+    "a9263583-83c3-430f-ab84-18e712f28ae9": {
+      "ProjectGuid": "a9263583-83c3-430f-ab84-18e712f28ae9",
+      "DisplayName": "BlogLand.Server",
+      "ColorIndex": 0
+    },
+    "fa211322-8211-4c4e-a4e2-88384082d6cc": {
+      "ProjectGuid": "fa211322-8211-4c4e-a4e2-88384082d6cc",
+      "DisplayName": "BlogLand.UI.Client",
+      "ColorIndex": 1
+    },
+    "97a8f045-eb36-418b-b25a-ca4b2d46a123": {
+      "ProjectGuid": "97a8f045-eb36-418b-b25a-ca4b2d46a123",
+      "DisplayName": "BlogLand.UI.Server",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\0_Framework\0_Framework.csproj" />
+    <ProjectReference Include="..\Dtat.Result\Dtat.Result.csproj" />
+    <ProjectReference Include="..\UserManagement.Infrastructure.EFCore\UserManagement.Infrastructure.EFCore.csproj" />
+    <ProjectReference Include="..\UserManagement.ViewModel\UserManagement.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,32 @@
+﻿@using _0_Framework.Application
+@inject NavigationManager NavigationManager
+@inject ILocalStorageService LocalStorage
+@inject HttpClient Http
+@inject AuthenticationStateProvider AuthStateProvider
+<AuthorizeView>
+    <Authorized>
+        <MudButton OnClick="Logout" Variant="Variant.Text" Color="Color.Info">Logout</MudButton>
+    </Authorized>
+    <NotAuthorized>
+        <MudButton OnClick="Account" Variant="Variant.Text" Color="Color.Surface">Login/Register</MudButton>
+    </NotAuthorized>
+</AuthorizeView>
+@code {
+    void Account()
+    {
+        NavigationManager.NavigateTo("account");
+    }
+
+    async void Logout()
+    {
+        await Http.GetAsync("userApi/Auth/SignOut");
+        
+        // Jwt Auth
+        //await LocalStorage.RemoveItemAsync("token");
+        
+        //Cookie Auth
+        await AuthStateProvider.GetAuthenticationStateAsync();
+        
+        NavigationManager.NavigateTo("/account");
+    }
+}

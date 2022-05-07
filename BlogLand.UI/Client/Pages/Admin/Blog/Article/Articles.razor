@@ -1,0 +1,68 @@
+﻿@layout AdminLayout
+@page "/Admin/Articles"
+@inject IDialogService DialogService
+@inject HttpClient Http
+@attribute [Authorize(Roles = Roles.Admin)]
+
+<MudIconButton Link="/Admin/Articles/Create" Icon="@Icons.Filled.Add" Color="Color.Primary" ></MudIconButton>
+
+<MudGrid>
+    <MudItem md="11">
+        <MudTextField @bind-Value="SearchModel" Label="Search" Variant="Variant.Text"></MudTextField>
+    </MudItem>
+    <MudItem md="1">
+        <MudIconButton Icon="@Icons.Filled.Search" Color="Color.Primary" OnClick=@SearchArticleCategories></MudIconButton>
+    </MudItem>
+</MudGrid>
+
+<MudTable Items="@ArticlesResult.Value" Hover="true" SortLabel="Sort By">
+    <HeaderContent>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.Id)">Id</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.Title)">Title</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.Slug)">Slug</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.ShortDescription)">Slug</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.Description)">Slug</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.ArticleCategory)">Slug</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.PictureAlt)">PictureAlt</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.PictureTitle)">PictureTitle</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleViewModel, object>(x=>x.Picture)">Picture</MudTableSortLabel></MudTh>
+        <MudTh>Actions</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Id">@context.Id</MudTd>
+        <MudTd DataLabel="Title">@context.Title</MudTd>
+        <MudTd DataLabel="Slug">@context.Slug</MudTd>
+        <MudTd DataLabel="ShortDescription">@context.ShortDescription</MudTd>
+        <MudTd DataLabel="Description">@context.Description</MudTd>
+        <MudTd DataLabel="ArticleCategory">@context.ArticleCategory</MudTd>
+        <MudTd DataLabel="PictureAlt">@context.PictureAlt</MudTd>
+        <MudTd DataLabel="PictureTitle">@context.PictureTitle</MudTd>
+        <MudTd DataLabel="Picture">
+            <img src="https://localhost:5001/UploadedFiles/@context.Picture" height="100px" width="100px" />
+        </MudTd>
+        <MudTd>
+            <p>Nothing</p>
+            @*<MudIconButton Icon="@Icons.Filled.Edit" Color="Color.Info" Size="Size.Medium" OnClick="@(() => Edit(context.Id))"></MudIconButton>*@
+        </MudTd>
+    </RowTemplate>
+    <PagerContent>
+        <MudTablePager PageSizeOptions="new int[]{50, 100}" />
+    </PagerContent>
+</MudTable>
+
+
+@code {
+    private string? SearchModel;
+    private Result<List<ArticleViewModel>> ArticlesResult = new Result<List<ArticleViewModel>>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await SearchArticleCategories();
+    }
+
+    async Task SearchArticleCategories()
+    {
+        var requestUri = $"blogApi/Articles/Search?search={SearchModel}";
+        ArticlesResult = await Http.GetFromJsonAsync<Result<List<ArticleViewModel>>>(requestUri);
+    }
+}

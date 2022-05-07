@@ -1,0 +1,107 @@
+﻿@layout AdminLayout
+
+@page "/Admin/Users"
+@inject IDialogService DialogService
+@inject HttpClient Http
+@attribute [Authorize(Roles = Roles.Admin)]
+
+<MudGrid>
+    <MudItem md="3">
+        <MudTextField @bind-Value="SearchModel.FullName" Label="Full name" Variant="Variant.Text"></MudTextField>
+    </MudItem>
+    <MudItem md="3">
+        <MudTextField @bind-Value="SearchModel.UserName" Label="Username" Variant="Variant.Text"></MudTextField>
+    </MudItem>
+    <MudItem md="3">
+        <MudTextField @bind-Value="SearchModel.PhoneNumber" Label="Phone number" Variant="Variant.Text"></MudTextField>
+    </MudItem>
+    <MudItem md="2">
+        <MudTextField @bind-Value="SearchModel.Email" Label="Email" Variant="Variant.Text"></MudTextField>
+    </MudItem>
+    <MudItem md="1">
+        <MudIconButton Icon="@Icons.Filled.Search" Color="Color.Primary" OnClick=@SearchUsers></MudIconButton>
+    </MudItem>
+</MudGrid>
+
+<MudTable Items="@UsersResult.Value" Hover="true" SortLabel="Sort By">
+    <HeaderContent>
+        <MudTh><MudTableSortLabel SortBy="new Func<UserViewModel, object>(x=>x.Id)">Id</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<UserViewModel, object>(x=>x.FullName)">FullName</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<UserViewModel, object>(x=>x.UserName)">UserName</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<UserViewModel, object>(x=>x.Email)">Email</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<UserViewModel, object>(x=>x.PhoneNumber)">PhoneNumber</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<UserViewModel, object>(x=>x.Role)">Role</MudTableSortLabel></MudTh>
+        <MudTh>Actions</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Id">@context.Id</MudTd>
+        <MudTd DataLabel="FullName">@context.FullName</MudTd>
+        <MudTd DataLabel="UserName">@context.UserName</MudTd>
+        <MudTd DataLabel="Email">@context.Email</MudTd>
+        <MudTd DataLabel="PhoneNumber">@context.PhoneNumber</MudTd>
+        <MudTd DataLabel="Role">@context.Role</MudTd>
+        <MudTd>
+            <MudIconButton Icon="@Icons.Filled.Edit" Color="Color.Info" Size="Size.Medium" OnClick="@(() => Edit(context.Id))"></MudIconButton>
+            <MudIconButton Icon="@Icons.Filled.AdminPanelSettings" Color="Color.Error" Size="Size.Medium" OnClick="@(() => ChangeRole(context.Id))"></MudIconButton>
+            <MudIconButton Icon="@Icons.Filled.Password" Color="Color.Success" Size="Size.Medium" OnClick="@(() => ChangePassword(context.Id))"></MudIconButton>
+        </MudTd>
+    </RowTemplate>
+    <PagerContent>
+        <MudTablePager PageSizeOptions="new int[]{50, 100}" />
+    </PagerContent>
+</MudTable>
+
+@code {
+    private SearchUserModel SearchModel = new SearchUserModel();
+    private Result<List<UserViewModel>> UsersResult = new Result<List<UserViewModel>>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await SearchUsers();
+    }
+
+    async Task SearchUsers()
+    {
+        var requestUri = $"userApi/Users/Search?fullName={SearchModel.FullName}&userName={SearchModel.UserName}&phoneNumber={SearchModel.PhoneNumber}&email={SearchModel.Email}";
+        UsersResult = await Http.GetFromJsonAsync<Result<List<UserViewModel>>>(requestUri);
+    }
+
+    public async Task Edit(long Id)
+    {
+        var parameters = new DialogParameters { ["Id"] = Id };
+
+        var dialog = DialogService.Show<EditUserDialog>("Edit User", parameters);
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+        {
+            await SearchUsers();
+        }
+    }
+
+    public async Task ChangeRole(long Id)
+    {
+        var parameters = new DialogParameters { ["Id"] = Id };
+
+        var dialog = DialogService.Show<ChangeRoleDialog>("Change Role", parameters);
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+        {
+            await SearchUsers();
+        }
+    }
+
+    public async Task ChangePassword(long Id)
+    {
+        var parameters = new DialogParameters { ["Id"] = Id };
+
+        var dialog = DialogService.Show<ChangePasswordDialog>("Change Password", parameters);
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+        {
+            await SearchUsers();
+        }
+    }
+}

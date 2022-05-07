@@ -1,0 +1,34 @@
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\BlogManagement.Domain.deps.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\BlogManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\0_Framework.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\Resources.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.csproj.CopyComplete
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\ref\BlogManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\refint\BlogManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\BlogManagement.Domain.deps.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\BlogManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\0_Framework.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\bin\Debug\net6.0\Resources.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.csproj.CopyComplete
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\refint\BlogManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Domain\obj\Debug\net6.0\ref\BlogManagement.Domain.dll

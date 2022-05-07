@@ -1,0 +1,54 @@
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.deps.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\0_Framework.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Application.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.ViewModel.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\Dtat.Result.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Application.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.ViewModel.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\Dtat.Result.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\Resources.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.csproj.CopyComplete
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\ref\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\refint\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.deps.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\0_Framework.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Application.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.ViewModel.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\Dtat.Result.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Application.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\BlogManagement.ViewModel.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\Dtat.Result.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\bin\Debug\net6.0\Resources.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.csproj.CopyComplete
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\refint\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\BlogManagement.Infrastructure.Configuration.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogManagement.Infrastructure.Configuration\obj\Debug\net6.0\ref\BlogManagement.Infrastructure.Configuration.dll

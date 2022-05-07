@@ -1,0 +1,84 @@
+﻿@layout AdminLayout
+@page "/Admin/ArticleCategories"
+@inject IDialogService DialogService
+@inject HttpClient Http
+@attribute [Authorize(Roles = Roles.Admin)]
+
+<MudIconButton Icon="@Icons.Filled.Add" Color="Color.Primary" OnClick="@(() => Create())"></MudIconButton>
+
+<MudGrid>
+    <MudItem md="11">
+        <MudTextField @bind-Value="SearchModel" Label="Search" Variant="Variant.Text"></MudTextField>
+    </MudItem>
+    <MudItem md="1">
+        <MudIconButton Icon="@Icons.Filled.Search" Color="Color.Primary" OnClick=@SearchArticleCategories></MudIconButton>
+    </MudItem>
+</MudGrid>
+
+<MudTable Items="@ArticleCategoriesResult.Value" Hover="true" SortLabel="Sort By">
+    <HeaderContent>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleCategoryViewModel, object>(x=>x.Id)">Id</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleCategoryViewModel, object>(x=>x.Title)">Title</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleCategoryViewModel, object>(x=>x.Slug)">Slug</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleCategoryViewModel, object>(x=>x.PictureAlt)">PictureAlt</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleCategoryViewModel, object>(x=>x.PictureTitle)">PictureTitle</MudTableSortLabel></MudTh>
+        <MudTh><MudTableSortLabel SortBy="new Func<ArticleCategoryViewModel, object>(x=>x.Picture)">Picture</MudTableSortLabel></MudTh>
+        <MudTh>Actions</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Id">@context.Id</MudTd>
+        <MudTd DataLabel="Title">@context.Title</MudTd>
+        <MudTd DataLabel="Slug">@context.Slug</MudTd>
+        <MudTd DataLabel="PictureAlt">@context.PictureAlt</MudTd>
+        <MudTd DataLabel="PictureTitle">@context.PictureTitle</MudTd>
+        <MudTd DataLabel="Picture">
+            <img src="https://localhost:5001/UploadedFiles/@context.Picture" height="100px" width="100px" />
+        </MudTd>
+        <MudTd>
+            <MudIconButton Icon="@Icons.Filled.Edit" Color="Color.Info" Size="Size.Medium" OnClick="@(() => Edit(context.Id))"></MudIconButton>
+        </MudTd>
+    </RowTemplate>
+    <PagerContent>
+        <MudTablePager PageSizeOptions="new int[]{50, 100}" />
+    </PagerContent>
+</MudTable>
+
+
+@code {
+    private string? SearchModel;
+    private Result<List<ArticleCategoryViewModel>> ArticleCategoriesResult = new Result<List<ArticleCategoryViewModel>>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await SearchArticleCategories();
+    }
+
+    async Task SearchArticleCategories()
+    {
+        var requestUri = $"blogApi/ArticleCategories/Search?search={SearchModel}";
+        ArticleCategoriesResult = await Http.GetFromJsonAsync<Result<List<ArticleCategoryViewModel>>>(requestUri);
+    }
+
+    public async Task Create()
+    {
+        var dialog = DialogService.Show<CreateArticleCategoryDialog>("Create Article Cateogry");
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+        {
+            await SearchArticleCategories();
+        }
+    }
+        public async Task Edit(long Id)
+    {
+        var parameters = new DialogParameters { ["Id"] = Id };
+
+        var dialog = DialogService.Show<EditArticleCategoryDialog>("Edit Article Category", parameters);
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+        {
+            await SearchArticleCategories();
+        }
+    }
+}

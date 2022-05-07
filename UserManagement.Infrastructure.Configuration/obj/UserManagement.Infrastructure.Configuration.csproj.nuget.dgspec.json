@@ -1,0 +1,606 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.Configuration\\UserManagement.Infrastructure.Configuration.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\0_Framework\\0_Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\0_Framework\\0_Framework.csproj",
+        "projectName": "0_Framework",
+        "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\0_Framework\\0_Framework.csproj",
+        "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\0_Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Microsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Dtat.Result\\Dtat.Result.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Dtat.Result\\Dtat.Result.csproj",
+        "projectName": "Dtat.Result",
+        "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Dtat.Result\\Dtat.Result.csproj",
+        "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Dtat.Result\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Microsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentResults": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj",
+        "projectName": "Resources",
+        "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj",
+        "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Microsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Application\\UserManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Application\\UserManagement.Application.csproj",
+        "projectName": "UserManagement.Application",
+        "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Application\\UserManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Microsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Dtat.Result\\Dtat.Result.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Dtat.Result\\Dtat.Result.csproj"
+              },
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.EFCore\\UserManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.EFCore\\UserManagement.Infrastructure.EFCore.csproj"
+              },
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.ViewModel\\UserManagement.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.ViewModel\\UserManagement.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Domain\\UserManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Domain\\UserManagement.Domain.csproj",
+        "projectName": "UserManagement.Domain",
+        "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Domain\\UserManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Microsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentResults": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.Configuration\\UserManagement.Infrastructure.Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.Configuration\\UserManagement.Infrastructure.Configuration.csproj",
+        "projectName": "UserManagement.Infrastructure.Configuration",
+        "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.Configuration\\UserManagement.Infrastructure.Configuration.csproj",
+        "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Microsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Application\\UserManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Application\\UserManagement.Application.csproj"
+              },
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.EFCore\\UserManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.EFCore\\UserManagement.Infrastructure.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.EFCore\\UserManagement.Infrastructure.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.EFCore\\UserManagement.Infrastructure.EFCore.csproj",
+        "projectName": "UserManagement.Infrastructure.EFCore",
+        "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.EFCore\\UserManagement.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Infrastructure.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Microsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Domain\\UserManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.Domain\\UserManagement.Domain.csproj"
+              },
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.ViewModel\\UserManagement.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.ViewModel\\UserManagement.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.ViewModel\\UserManagement.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.ViewModel\\UserManagement.ViewModel.csproj",
+        "projectName": "UserManagement.ViewModel",
+        "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.ViewModel\\UserManagement.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\UserManagement.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Microsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj": {
+                "projectPath": "C:\\Users\\Microsoft\\Desktop\\Programming\\C#\\BlogLand\\Resources\\Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

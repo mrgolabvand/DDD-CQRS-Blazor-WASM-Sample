@@ -1,0 +1,228 @@
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Client.staticwebassets.runtime.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.staticwebassets.runtime.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.exe
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.deps.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.runtimeconfig.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\FluentResults.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\MediatR.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\0_Framework.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Client.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Application.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.ViewModel.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Dtat.Result.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Application.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Domain.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Infrastructure.Configuration.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.ViewModel.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Application.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Application.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Infrastructure.Configuration.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Client.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.ViewModel.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Dtat.Result.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Resources.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Domain.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.ViewModel.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.RazorAssemblyInfo.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.RazorAssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\scopedcss\bundle\BlogLand.UI.Server.styles.css
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.csproj.CopyComplete
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\ref\BlogLand.UI.Server.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.genruntimeconfig.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\refint\BlogLand.UI.Server.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Client.staticwebassets.runtime.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.staticwebassets.runtime.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.exe
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.deps.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.runtimeconfig.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Server.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\FluentResults.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\MediatR.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\0_Framework.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Client.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Application.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.ViewModel.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Dtat.Result.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Application.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Domain.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Infrastructure.Configuration.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.ViewModel.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Application.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Infrastructure.Configuration.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Application.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Infrastructure.Configuration.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogLand.UI.Client.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\0_Framework.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\BlogManagement.ViewModel.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Dtat.Result.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\Resources.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Domain.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.Infrastructure.EFCore.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\bin\Debug\net6.0\UserManagement.ViewModel.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.RazorAssemblyInfo.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.RazorAssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\scopedcss\bundle\BlogLand.UI.Server.styles.css
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.csproj.CopyComplete
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\refint\BlogLand.UI.Server.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\BlogLand.UI.Server.genruntimeconfig.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\BlogLand.UI\Server\obj\Debug\net6.0\ref\BlogLand.UI.Server.dll

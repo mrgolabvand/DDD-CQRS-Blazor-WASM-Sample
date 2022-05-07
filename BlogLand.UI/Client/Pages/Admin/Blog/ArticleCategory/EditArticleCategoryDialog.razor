@@ -1,0 +1,131 @@
+﻿@using Microsoft.AspNetCore.Http
+@using System.Text
+@using _0_Framework.Application
+@inject HttpClient Http
+@inject ISnackbar Snackbar
+
+@if (ArticleCategory != null && ArticleCategory.Value != null)
+{
+    <MudDialog>
+        <TitleContent>
+            <MudText Typo="Typo.h6">
+                <MudIcon Icon="@Icons.Material.Filled.Edit" Class="mr-3 mb-n1" />
+                Edit Article Category
+            </MudText>
+        </TitleContent>
+        <DialogContent>
+            <MudGrid>
+                @if (Result != null && Result.IsFailed)
+                {
+                    @foreach (var error in Result.Errors)
+                    {
+                        <MudItem md="12">
+                            <MudText Color="Color.Error" dir="rtl">@error</MudText>
+                        </MudItem>
+                    }
+                }
+                <MudItem md="12">
+                    <MudTextField @bind-Value="ArticleCategory.Value.Title" Label="Title" />
+                </MudItem>
+                <MudItem md="12">
+                    <InputFile OnChange="@OnInputFileChanged"></InputFile>
+                </MudItem>
+                <MudItem md="6">
+                    <MudTextField @bind-Value="ArticleCategory.Value.PictureAlt" Label="Picture Alt" />
+                </MudItem>
+                <MudItem md="6">
+                    <MudTextField @bind-Value="ArticleCategory.Value.PictureTitle" Label="Picture Title" />
+                </MudItem>
+            </MudGrid>
+        </DialogContent>
+        <DialogActions>
+            <MudButton OnClick="Cancel">Cancel</MudButton>
+            <MudButton Color="Color.Error" OnClick="Submit">Edit</MudButton>
+        </DialogActions>
+    </MudDialog>
+}
+else
+{
+    <MudProgressCircular Color="Color.Primary" Indeterminate="true" />
+}
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+    [Parameter] public long Id { get; set; }
+    public Result<EditArticleCategory> ArticleCategory = new Result<EditArticleCategory>();
+    public Dtat.Result.Result? Result = new Result();
+    private StreamContent fileContent;
+    private Stream fileStream;
+    private string fileName;
+    private string imageType;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var requestUri = $"blogApi/ArticleCategories/GetDetails/{Id}";
+        ArticleCategory = await Http.GetFromJsonAsync<Result<EditArticleCategory>>(requestUri);
+    }
+    public async Task OnInputFileChanged(InputFileChangeEventArgs e)
+    {
+        if (e.File != null)
+        {
+            long maxFileSize = 1024 * 1024 * 10;
+
+            fileStream = e.File.OpenReadStream();
+            fileContent = new StreamContent(e.File.OpenReadStream(maxFileSize));
+
+            fileName = e.File.Name;
+            var fileSize = new byte[e.File.Size];
+            var test = await e.File.OpenReadStream().ReadAsync(fileSize);
+
+            imageType = e.File.ContentType;
+
+            this.StateHasChanged();
+        }
+    }
+
+    public async Task Edit()
+    {
+        using var content = new MultipartFormDataContent();
+
+        ArticleCategory.Value.Id = Id;
+        if (fileName != null)
+        {
+            content.Add(content: fileContent, name: "Picture", fileName: fileName);
+        }
+        content.Add(new StreamContent(new MemoryStream(Encoding.UTF8.GetBytes
+            (ArticleCategory.Value.Id.ToString()))), "Id");
+
+        content.Add(new StreamContent(new MemoryStream(Encoding.UTF8.GetBytes
+            ((ArticleCategory.Value.PictureAlt != null ? ArticleCategory.Value.PictureAlt : string.Empty)))), "PictureAlt");
+
+        content.Add(new StreamContent(new MemoryStream(Encoding.UTF8.GetBytes
+            ((ArticleCategory.Value.PictureTitle != null ? ArticleCategory.Value.PictureTitle : string.Empty)))), "PictureTitle");
+
+        content.Add(new StreamContent(new MemoryStream(Encoding.UTF8.GetBytes
+            (ArticleCategory.Value.Title != null ? ArticleCategory.Value.Title : string.Empty))), "Title");
+
+        var slug = ArticleCategory.Value.Title.Slugify();
+
+        content.Add(new StreamContent(new MemoryStream(Encoding.UTF8.GetBytes
+            ((slug != null ? slug : string.Empty)))), "Slug");
+
+        var response = await Http.PutAsync("blogApi/ArticleCategories/Edit", content);
+        var json = await response.Content.ReadAsStringAsync();
+        Result = JsonConvert.DeserializeObject<Result>(json);
+    }
+
+    async Task Submit()
+    {
+        await Edit();
+        if (Result != null && Result.IsSuccess)
+        {
+            Snackbar.Add("Article Category Edited", Severity.Success);
+            MudDialog.Close();
+        }
+    }
+
+    private void Cancel()
+    {
+        MudDialog.Cancel();
+    }
+
+}

@@ -1,0 +1,30 @@
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\UserManagement.ViewModel.deps.json
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\UserManagement.ViewModel.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\UserManagement.ViewModel.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\Resources.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\Resources.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.csproj.AssemblyReference.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.AssemblyInfo.cs
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.csproj.CopyComplete
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\ref\UserManagement.ViewModel.dll
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.pdb
+C:\Users\win 10\Desktop\programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\refint\UserManagement.ViewModel.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\UserManagement.ViewModel.deps.json
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\UserManagement.ViewModel.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\UserManagement.ViewModel.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\Resources.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\bin\Debug\net6.0\Resources.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.csproj.CopyComplete
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\refint\UserManagement.ViewModel.dll
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\UserManagement.ViewModel.pdb
+C:\Users\Microsoft\Desktop\Programming\C#\BlogLand\UserManagement.ViewModel\obj\Debug\net6.0\ref\UserManagement.ViewModel.dll
